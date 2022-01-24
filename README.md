@@ -1,6 +1,6 @@
 Module 2 Coding Assignment
 
-This is one assignment from the HTML, CSS, JS course. 
+This is one assignment from the HTML, CSS, JS course (https://www.coursera.org/learn/html-css-javascript-for-web-developers). 
 The follow project need to be aligned with the follow requiments: 
 
 
